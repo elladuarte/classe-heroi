@@ -1,6 +1,6 @@
 Escrevendo a classe de um jogo:
 
-**Objetivo do Projeto: **
+## Objetivo do Projeto:
 
 O desenvolvimento da solução deve utilizar variáveis para armazenar dados, operadores para realizar comparações e manipulações, laços de repetição para executar ações múltiplas vezes quando necessário, estruturas de decisão para controlar o fluxo do programa, funções para organizar e reutilizar o código, além de classes e objetos para estruturar o sistema seguindo os princípios da programação orientada a objetos.
 
