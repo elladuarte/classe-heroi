@@ -1,4 +1,4 @@
-Escrevendo a classe de um jogo:
+## PROJETO: Escrever a Classe de um Jogo em Javascript
 
 ## Objetivo do Projeto:
 
